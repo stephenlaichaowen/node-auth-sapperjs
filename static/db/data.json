@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Banana Boost",
+    "desc": "Banana, Vanilla ice cream, Milk",
+    "img": "/smoothie.png"
+  },
+  {
+    "title": "Tropical Twist",
+    "desc": "Peach, Pinapple, Apple juice",
+    "img": "/smoothie.png"
+  },
+  {
+    "title": "Protein Packer",
+    "desc": "Oats, Peanut butter, Milk, Banana, Blueberries",
+    "img": "/smoothie.png"
+  },
+  {
+    "title": "Banana Boost",
+    "desc": "Banana, Vanilla ice cream, Milk",
+    "img": "/smoothie.png"
+  },
+  {
+    "title": "Tropical Twist",
+    "desc": "Peach, Pinapple, Apple juice",
+    "img": "/smoothie.png"
+  },
+  {
+    "title": "Protein Packer",
+    "desc": "Oats, Peanut butter, Milk, Banana, Blueberries",
+    "img": "/smoothie.png"
+  }
+  
+]
